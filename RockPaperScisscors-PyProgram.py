@@ -9,6 +9,7 @@ while True:
     if user_choice not in choices:
         print("Invalid choice")
         continue
+#ad two numbers
 
     computer_choice = random.choice(choices)
     
